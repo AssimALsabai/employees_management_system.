@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "alsabai": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
